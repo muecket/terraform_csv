@@ -1,0 +1,10 @@
+rgid,rgname,location,tag
+1,tftest-testcsv-1-rg,northeurope,Tag1
+2,tftest-testcsv-2-rg,westeurope,Tag2
+3,tftest-testcsv-3-rg,eastus,Tag3
+4,tftest-testcsv-4-rg,eastus2,Tag4
+5,tftest-testcsv-5-rg,westus,Tag5
+6,tftest-testcsv-6-rg,westus2,Tag6
+7,tftest-testcsv-7-rg,northeurope,Tag7
+8,tftest-testcsv-8-rg,westeurope,Tag8
+9,tftest-testcsv-9-rg,eastus,Tag9
